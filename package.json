@@ -1,0 +1,27 @@
+{
+  "name": "test-ts-command-line-args",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmajcica/test-ts-command-line-args.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmajcica/test-ts-command-line-args/issues"
+  },
+  "homepage": "https://github.com/mmajcica/test-ts-command-line-args#readme",
+  "dependencies": {
+    "ts-command-line-args": "^2.1.0",
+    "typed-rest-client": "^1.8.4"
+  },
+  "devDependencies": {
+    "@types/node": "^15.14.0",
+    "typescript": "^4.3.5"
+  }
+}
