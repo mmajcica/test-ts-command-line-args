@@ -1,9 +1,9 @@
 import { parse } from 'ts-command-line-args';
 
 interface ISplunkArguments {
-    baseUrl: String;
-    token: String;
-    filePath: String;
+    baseUrl: string;
+    token: string;
+    filePath: string;
     help: boolean;
 }
 
